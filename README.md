@@ -1,0 +1,2 @@
+¿Qué parte de la aplicación conoce ahora la estructura de la tabla estudiantes?
+El archivo "models.py" es el encargado de crear la tabla y cada una de sus columnas, definiendo llave primaria, tipo de dato, longitud, si puede ser vacio o no, ademas tiene un metodo __repr__ para definir como se representara en texto. 
